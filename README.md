@@ -1,6 +1,4 @@
-# adcampaign-ab-test-analytics
-
-# adcampaign-ab-test-analytics (Power BI)
+# adcampaign-ab-test-analytics (SQL + Power BI)
 
 ## About Me
 I’m Anusha, a data analyst with a strong interest in turning raw data into clear, actionable insights. I enjoy solving real business problems using analytics, visualization, and statistical reasoning. I built this project to demonstrate how I approach end‑to‑end analysis—from data preparation and KPI modeling to A/B testing and dashboard design.
